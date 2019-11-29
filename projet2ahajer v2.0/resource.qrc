@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>myappico.png</file>
+        <file>28757432p.png</file>
+    </qresource>
+</RCC>
